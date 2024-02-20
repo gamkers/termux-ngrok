@@ -13,8 +13,8 @@ bash install.sh
 
 And run : `ngrok`
 
-# Manifest
+# Contact
 
-ES: este repositorio es codigo libre, puedes usarlo sin ningun problema.
+Instagram: https://www.instagram.com/gamkers
 
-EN: this repository is free code, you can use it without any problem.
+Youtube: https://www.youtube.com/@gamkeryt
