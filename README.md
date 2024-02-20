@@ -12,7 +12,8 @@ bash install.sh
 ```
 Get Your Auth Token here - > https://dashboard.ngrok.com/get-started/your-authtoken
 
-ngrok config add-authtoken <Your-Token>
+ngrok config add-authtoken (Your-Token)
+
 And run : `ngrok`
 
 # Contact
