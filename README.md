@@ -10,7 +10,9 @@ git clone https://github.com/gamkers/termux-ngrok.git
 cd termux-ngrok
 bash install.sh
 ```
+Get Your Auth Token here - > https://dashboard.ngrok.com/get-started/your-authtoken
 
+ngrok config add-authtoken <Your-Token>
 And run : `ngrok`
 
 # Contact
